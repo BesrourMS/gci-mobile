@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">148119749180-npmpcjrc8gos9phdpdppea4kni3vd8jc.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://gestion-capteurs-incendi-3fd6f.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">148119749180</string>
+    <string name="google_api_key" translatable="false">AIzaSyB7xA57ENVZ8gQ7eaU_dlySxEhCuZ1dAIg</string>
+    <string name="google_app_id" translatable="false">1:148119749180:android:8ed8c0251fa91c9f</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyB7xA57ENVZ8gQ7eaU_dlySxEhCuZ1dAIg</string>
+    <string name="google_storage_bucket" translatable="false">gestion-capteurs-incendi-3fd6f.appspot.com</string>
+    <string name="project_id" translatable="false">gestion-capteurs-incendi-3fd6f</string>
+</resources>

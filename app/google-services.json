@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "148119749180",
+    "firebase_url": "https://gestion-capteurs-incendi-3fd6f.firebaseio.com",
+    "project_id": "gestion-capteurs-incendi-3fd6f",
+    "storage_bucket": "gestion-capteurs-incendi-3fd6f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:148119749180:android:8ed8c0251fa91c9f",
+        "android_client_info": {
+          "package_name": "com.gci.gestioncapteursincendie"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "148119749180-85kh3jv2fgvdrf98kjlib79d0g03idtv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gci.gestioncapteursincendie",
+            "certificate_hash": "db26572f0adf4b6c16985a75f0d441753064e8d2"
+          }
+        },
+        {
+          "client_id": "148119749180-npmpcjrc8gos9phdpdppea4kni3vd8jc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7xA57ENVZ8gQ7eaU_dlySxEhCuZ1dAIg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "148119749180-npmpcjrc8gos9phdpdppea4kni3vd8jc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
